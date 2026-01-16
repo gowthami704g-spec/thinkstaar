@@ -1,0 +1,9 @@
+For huge attachment folders, kubectl cp is slow. Best practice:
+
+Tar locally
+
+Copy tar
+
+Extract in pod
+
+If you want, I can give you that fast method too.
